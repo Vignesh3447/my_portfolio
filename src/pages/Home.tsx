@@ -59,11 +59,11 @@ const Home: React.FC = () => {
               className="relative h-72 w-72 overflow-hidden rounded-full border-4 border-white shadow-xl dark:border-gray-700 md:h-96 md:w-96"
             >
               <img
-                src="public/pic/my_pic.jpeg"
+                src="public/pic/IMG-20250702-WA0056.jpg"
                 alt="Profile"
                 className="h-full w-full object-cover"
               />
-            </motion.div>
+            </motion.div>Qualifications
           </div>
         </div>
       </section>
