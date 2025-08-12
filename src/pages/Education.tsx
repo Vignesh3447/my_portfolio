@@ -15,7 +15,7 @@ const Education: React.FC = () => {
     },
     {
       id: 2,
-      degree: 'Bachelor of Science in Pysics',
+      degree: 'Bachelor of Science in Physics',
       institution: 'Bharathiyar University',
       location: 'Coimbator, Tamil Nadu, India',
       period: '2018 - 2021',
